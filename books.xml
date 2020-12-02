@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bitcoin_books>
+<book>
+    <title>Bitcoin, Blockchain, and Cryptoassets: A Comprehensive Introduction</title>
+    <authors>Fabian Schar, Aleksander Berentsen</authors>
+    <book_cover>Paperback</book_cover>
+    <Amazon_price>$49.88</Amazon_price>
+</book>
+<book>
+    <title>A brief introduction to Bitcoin: Educational, valuable and deep insights</title>
+    <authors>Cosmin Novac</authors>
+    <book_cover>Paperback</book_cover>
+    <Amazon_price>$9.99</Amazon_price>
+</book>
+<book>
+    <title>Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction</title>
+    <authors>Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder</authors>
+    <book_cover>Hardcover</book_cover>
+    <Amazon_price>$27.18</Amazon_price>
+</book>
+</bitcoin_books>
